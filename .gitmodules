@@ -1,0 +1,3 @@
+[submodule "standard-version"]
+	path = standard-version
+	url = https://github.com/conventional-changelog/standard-version.git
