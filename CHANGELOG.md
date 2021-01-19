@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/arcadien/conventional-commit-demo/compare/v0.0.3...v1.0.0) (2021-01-19)
+
+
+### Features
+
+* Implemented feature three ([04f1bd5](https://github.com/arcadien/conventional-commit-demo/commit/04f1bd502dfa771a3ac0605e6904912c3efd151a))
+
 ### [0.0.3](https://github.com/arcadien/conventional-commit-demo/compare/v0.0.2...v0.0.3) (2021-01-19)
 
 
